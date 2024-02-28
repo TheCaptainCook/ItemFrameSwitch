@@ -143,8 +143,8 @@ hs_err_pid*
 
 #Graddle Files remover 
 gradle
-build.graddle
-gradle.propertise
+gradle.properties
 gradlew
 gradlew.bat
 settings.gradle
+build.gradle
