@@ -1,0 +1,8 @@
+name: ItemFrameSwitch
+version: '${version}'
+main: com.thecaptaincook.itemframeswitch.ItemFrameSwitch
+api-version: '1.20'
+prefix: [IFS]
+authors: [TheCaptainCook]
+description: This is description
+website: thecaptaincook.in
