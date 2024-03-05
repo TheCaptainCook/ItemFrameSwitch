@@ -21,7 +21,7 @@ Minecraft 1.20.4. Place the file in the plugins folder and reload the server.
 
 This plugin is developed for spigot 1.20.4. So, be careful using anywhere else.
 
-Have any issues with the plugin:
+### Have any issues with the plugin:
 
 Create an issue here - https://github.com/TheCaptainCook/ItemFrameSwitch/issues
 
